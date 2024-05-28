@@ -21,7 +21,7 @@ RUN mkdir -p /build/etc/opt/xteve/backup /build/tmp/xteve && \
 
 
 # final image
-FROM alpine:3.18
+FROM alpine:3.20
 LABEL maintainer="<sq4ind@gmail.com>"
 
 # xTeVe
